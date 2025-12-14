@@ -32,5 +32,3 @@ The following analytical steps were performed:
    - Q–Q plot
 7. Homogeneity of variance testing using Levene’s test
 8. Welch’s ANOVA and Games–Howell post-hoc comparisons
-
-## Repository Structure
